@@ -56,7 +56,7 @@
   ],
   "placementConstraints": [],
   "memory": "128",
-  "taskRoleArn": null,
+  "taskRoleArn": ["arn:aws:iam::194950949034:role/cluster-service"],
   "compatibilities": [
     "EXTERNAL",
     "EC2"
